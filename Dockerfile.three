@@ -1,4 +1,4 @@
 # FROM golang:1.18.5-alpine3.15@sha256:1148e42a8b0fb6bbceed5aa86a2c1bea0d7cb2f96010d8c25a7a38ef815fee91
-FROM golang:1.18.5-alpine3.15@sha256:387b102dcb6bd5f5b138cbfd85e8d9ced14f33bbbb7e859610463cc8fa47e8fc
+FROM golang:1.18.5-alpine3.15@sha256:8558ae624304387d18694b9ea065cc9813dd4f7f9bd5073edb237541f2d0561b
 
 RUN go version
